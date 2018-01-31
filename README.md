@@ -1,0 +1,1 @@
+# groceristar-static
