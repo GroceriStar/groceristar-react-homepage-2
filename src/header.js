@@ -6,7 +6,7 @@ class Header extends Component{
 		return(
              <div className ="row Header">
              <div className="col-md-3 col-md-push-1 name" > GroceriStar </div>
-             <div className="col-md-2 col-md-push-6 contact"> Contact </div>
+             <div className="col-md-2 col-md-push-6 contact"> Contacts </div>
              </div>
 			);
 	}
